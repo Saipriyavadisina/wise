@@ -7,3 +7,5 @@ if __name__ == "__main__":
     result = check_anagrams(string1, string2)
     # YOUR CODE HERE
     print(result)
+
+
